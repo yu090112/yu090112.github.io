@@ -1,0 +1,117 @@
+body {
+    background-color: azure;
+    margin-left: 100px;
+}
+
+.header {
+    width: 100%;
+    position: fixed;
+    background-color: #578;
+    top: 0;
+    height: 80px;
+    left: 0;
+}
+
+.tit {
+    font-family: sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+.tit:hover {
+    color: red;
+}
+
+.header-tit {
+    height: 60px;
+    width: 60%;
+    float: left;
+}
+
+.header-sub {
+    float: left;
+    margin-top: 40px;
+    width: 40%
+}
+
+.sub {
+    text-decoration: none;
+    margin-right: 10%;
+    color: white;
+    font-size: 150%;
+}
+
+.sub:hover {
+    color: blue;
+}
+
+#po {
+    margin: 0 0 0 30px;
+    font-size: 300%;
+}
+
+.on {
+    top: 0;
+    font-size: 25px;
+    margin: 0 0 0 80px;
+}
+
+.main-body {
+    width: 60%;
+    float: left;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 150%;
+}
+
+.pp {
+    background-color: white;
+    line-height: 3;
+}
+
+.cash {
+    font-weight: bolder;
+}
+
+.memo {
+    color: blue;
+    font-weight: bolder;
+}
+
+.subj {
+    float: right;
+    list-style: none;
+    text-decoration: none;
+    margin-top: 0;
+}
+
+.oto {
+    color: red;
+    font-weight: bolder;
+}
+
+.link {
+    margin-top: 90px;
+    float: left;
+    width: 20%;
+}
+
+.link a {
+    text-decoration: none;
+}
+
+.lis:hover {
+    color: blue;
+}
+
+.subli {
+    color: blue;
+}
+
+.subli:hover {
+    color: red;
+}
+
+.lis {
+    color: black;
+}
